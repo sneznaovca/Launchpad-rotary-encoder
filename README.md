@@ -6,7 +6,9 @@ Usage rotary encoder for TI Launchpad msp430.
 Example
 =======
 `void encoderInit();` Initialize rotary encoder
+
 `void stepCCW();` Function is called every step rotate CCW
+
 `void stepCW();` Function is called every step rotate CW
 
 License
